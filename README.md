@@ -6,3 +6,4 @@ Neste repositorio irei testar todos os processos relacionados a GIT no GITHUB, P
 
 - primeiro processo foi autenticação com email e senha;
 - segundo processo envolvendo autenticação via token;
+- terceiro processo envolvendo autenticação com Chave SSH;
